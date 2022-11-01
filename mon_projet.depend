@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1547332019 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547311496 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\constantes.h
+
+1547319131 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\pieces.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"score.h"
+
+1547319131 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\pieces.h
+
+1547332019 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547332019 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\jeu.h
+
+1545754004 source:d:\projets-sdl\mon_projet\mon_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+
+1545735110 d:\projets-sdl\mon_projet\mon_projet\constantes.h
+
+1546205542 d:\projets-sdl\mon_projet\mon_projet\pieces.h
+
+1545753078 d:\projets-sdl\mon_projet\mon_projet\jeu.h
+
+1546102102 source:d:\projets-sdl\mon_projet\mon_projet\pieces.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+
+1546205704 source:d:\projets-sdl\mon_projet\mon_projet\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+
+1547226373 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+
+1547226373 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\fichier.h
+
+1547311346 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\score.h
+
+1547320863 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\score.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+
+1547332019 c:\users\pc\desktop\programmes\projets-sdl\mon_projet\menu.h
+
+1547332019 source:c:\users\pc\desktop\programmes\projets-sdl\mon_projet\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547226374 source:d:\tp_algo\mon_projet\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+
+1547311498 d:\tp_algo\mon_projet\constantes.h
+
+1547319132 d:\tp_algo\mon_projet\pieces.h
+
+1547332020 d:\tp_algo\mon_projet\jeu.h
+
+1547226374 d:\tp_algo\mon_projet\fichier.h
+
+1547332020 source:d:\tp_algo\mon_projet\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547311348 d:\tp_algo\mon_projet\score.h
+
+1547332020 d:\tp_algo\mon_projet\menu.h
+
+1547332020 source:d:\tp_algo\mon_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547332020 source:d:\tp_algo\mon_projet\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+	"menu.h"
+
+1547319132 source:d:\tp_algo\mon_projet\pieces.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"pieces.h"
+	"score.h"
+
+1547320864 source:d:\tp_algo\mon_projet\score.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"constantes.h"
+	"pieces.h"
+	"jeu.h"
+	"fichier.h"
+	"score.h"
+
