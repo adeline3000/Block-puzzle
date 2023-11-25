@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the source code and assets for a Block Puzzle game developed in C using the SDL 1.2 library, as part of our second year in the general computer science license program, we undertook the development of a computer project. Please note that the project structure is maintained as per the existing organization to avoid potential breaking changes.
+This repository contains the source code and assets for a Block Puzzle game developed in C using the SDL 1.2 library, as part of my second year in computer science Bachelor's degree. Please note that the project structure is maintained as per the existing organization to avoid potential breaking changes.
 
 ## Project Structure
 
